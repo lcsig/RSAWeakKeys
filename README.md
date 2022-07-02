@@ -59,3 +59,7 @@ c : 1686507859927148859116335341216168026928948052728950953455946888771772097043
 m : 111000222000333000444000555000666000777000888000999000111000
 [+] Finished Successfully.
 ```
+
+## Paper Link
+
+Mahmoud M. Almazari, Eyad S. Taqieddin, Ahmed S. Shatnawi and Zakarea AlShara. (2022). RSA Private Keys and the Presence of Weak Keys: An Evaluation. https://doi.org/10.13140/RG.2.2.17106.22728.
