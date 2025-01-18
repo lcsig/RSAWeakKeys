@@ -74,3 +74,8 @@ m : 111000222000333000444000555000666000777000888000999000111000
 ## Paper Link
 
 Mahmoud M. Almazari, Eyad S. Taqieddin, Ahmed S. Shatnawi and Zakarea AlShara. (2022). RSA Private Keys and the Presence of Weak Keys: An Evaluation. https://doi.org/10.13140/RG.2.2.17106.22728.
+
+## Buy me a Coffee: 
+BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+
+![BTC](https://raw.githubusercontent.com/lcsig/API-Hooking/refs/heads/master/img/btc.png)
